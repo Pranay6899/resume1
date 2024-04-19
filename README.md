@@ -1,6 +1,6 @@
 # resume1
 
-                                                                                           my resume
+                                                  my resume
 
 NAME:Boddula Ganesh
 
