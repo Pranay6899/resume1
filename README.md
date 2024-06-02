@@ -2,7 +2,7 @@
 
                                                   MY resume
 
-NAME:Boddula Ganesh
+NAME::Boddula Ganesh
 
 Email:ganeshboddula012@gmail.com
 
